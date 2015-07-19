@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-natded
 Version:	0.1
-Release:	4
+Release:	5
 Summary:	Typeset natural deduction proofs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/natded
