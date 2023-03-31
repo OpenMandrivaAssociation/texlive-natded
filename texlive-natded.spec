@@ -1,6 +1,6 @@
 Name:		texlive-natded
 Version:	32693
-Release:	1
+Release:	2
 Summary:	Typeset natural deduction proofs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/natded
