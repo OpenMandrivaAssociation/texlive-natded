@@ -3,7 +3,7 @@ Version:	32693
 Release:	2
 Summary:	Typeset natural deduction proofs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/natded
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/natded
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/natded.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/natded.doc.r%{version}.tar.xz
